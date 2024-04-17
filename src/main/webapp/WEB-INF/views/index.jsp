@@ -19,5 +19,11 @@
 </body>
 
 <script>
+	var arr = [];
+	var obj = {};
+	
+	function test() {
+		alert('text 입니다');
+	}
 </script>
 </html>
